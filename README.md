@@ -1,7 +1,7 @@
 # Mandelbrot set
-This my mandelbrot set :) 
+This my mandelbrot set using P5.js :) 
 
-
+![](./result.png)
 
 ## First use
 Install necessary node modules
