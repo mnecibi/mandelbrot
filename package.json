@@ -10,17 +10,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/THEMahdouch/p5-accelerator.git"
+    "url": "git+ssh://git@github.com/THEMahdouch/mandelbrot.git"
   },
   "keywords": [
-    "p5.js", "mandelbrot", "js", "p5"
+    "p5.js",
+    "mandelbrot",
+    "js",
+    "p5"
   ],
-  "author": "THEMahdouch",
+  "author": "Mehdi Necibi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/THEMahdouch/p5-accelerator/issues"
+    "url": "https://github.com/THEMahdouch/mandelbrot/issues"
   },
-  "homepage": "https://github.com/THEMahdouch/p5-accelerator#readme",
+  "homepage": "https://github.com/THEMahdouch/mandelbrot#readme",
   "dependencies": {
     "browserify": "^16.5.1",
     "eslint": "^6.8.0",
